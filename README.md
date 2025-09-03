@@ -1181,8 +1181,6 @@ The MENA region is experiencing unprecedented AI growth, creating massive opport
 - **Marie Forleo:** Business coaching and development
 
 #### **Arabic Content**
-- **أحمد أبو زيد:** Arabic tech and business content
-- **عبدالرحمن أبو مالح:** Entrepreneurship in Arabic
 - **منصة إدراك:** Arabic MOOCs and professional development
 - **أكاديمية حسوب:** Arabic programming and business
 
